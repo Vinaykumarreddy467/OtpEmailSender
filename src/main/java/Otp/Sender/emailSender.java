@@ -38,8 +38,8 @@ public class emailSender {
         int otp = 100000 + ran.nextInt(900000);  // Generate a random 6-digit number
         
         // Sender's Gmail credentials
-        final String username = "molakathallavinaykumarreddy@gmail.com";  // sender Gmail
-        final String password = "gliednuifcmtxajs";  // sender Gmail password or app password
+        final String username = "";  // sender Gmail
+        final String password = "";  // sender Gmail password or app password
 
         String toEmail = email;  // Recipient's email address
 
